@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 -->
 - 🌱 I’m currently learning 
-- 💬 Let's talk about Cyber Security
+- 💬 Let's talk about Pen Testing
 - 📫 How to reach me: DM me on Twitter
 - 😄 Pronouns: Call me zron
 - ⚡ Fun fact: I am not interested to develop but BREAK
