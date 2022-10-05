@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Let's talk about Pen Testing
 - 📫 How to reach me: DM me on Twitter
 - 😄 Pronouns: Call me zron
-- ⚡ Fun fact: I am not interested to develop but BREAK
+- ⚡ Fun fact: I am not interested to build but BREAK
 
