@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-I am Xron Trix, currently studying as a CSE Student. I am a learner, cyber security enthusiast, script kiddie, coder and technology lover. Find out more about me & feel free to connect with me here:
+### I am Xron Trix, currently studying as a CSE Student. I am a learner, cyber security enthusiast, script kiddie, coder and technology lover. Find out more about me & feel free to connect with me here:
 
 [![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:xrontrix@proton.me)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&link=https://t.me/BEnTeN009)](https://t.me/BEnTeN009)
