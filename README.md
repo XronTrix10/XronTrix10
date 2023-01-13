@@ -31,9 +31,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=XronTrix10&count_private=true&show_icons=true&include_all_commits=true&bg_color=212121&icon_color=7a7a7a&text_color=ffffff&hide_border=true&title_color=ff3300)
+![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XronTrix10&count_private=true&show_icons=true&include_all_commits=true&bg_color=212121&icon_color=7a7a7a&text_color=ffffff&hide_border=true&title_color=ff3300)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XronTrix10&hide=TeX&layout=compact&bg_color=212121&text_color=ffffff&hide_border=true&title_color=ff3300)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=XronTrix10&hide=TeX&layout=compact&bg_color=212121&text_color=ffffff&hide_border=true&title_color=ff3300)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=XronTrix10.XronTrix10)
 
