@@ -12,7 +12,7 @@
 <!-- ![Matrix](https://img.shields.io/badge/matrix-000000?style=flat&logo=Matrix&logoColor=white) -->
 
 
-## ⚡ Technologies
+## 🐧 My Interests 
 
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
