@@ -7,7 +7,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)]((https://discordapp.com/users/759004389494095882))
 [![Twitter](https://img.shields.io/twitter/follow/XronTrix10?style=social)](https://twitter.com/XronTrix10)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/XronTrix10)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)](https://gitlab.com/XronTrix10)
 <!-- [![discord](https://discord-md-badge.vercel.app/api/shield/759004389494095882?style=social)](https://discordapp.com/users/759004389494095882) -->
 <!-- ![Matrix](https://img.shields.io/badge/matrix-000000?style=flat&logo=Matrix&logoColor=white) -->
 
