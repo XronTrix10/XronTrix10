@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello There 👋
 
 ### I am Xron Trix, currently studying as a CSE Student. I am a learner, cyber security enthusiast, script kiddie, coder and technology lover. Find out more about me & feel free to connect with me here:
 
