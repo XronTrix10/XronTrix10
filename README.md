@@ -53,8 +53,14 @@
 |<img align="left" src="https://github-readme-stats.vercel.app/api?username=XronTrix10&count_private=true&show_icons=true&include_all_commits=true&bg_color=212121&icon_color=7a7a7a&text_color=ffffff&hide_border=true&title_color=ff3300&rank_icon=percentile" />|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XronTrix10&theme=dark&hide_border=true&title_color=ff3300" alt="Xron Trix" /> |
 | | |
 
+<br>
+
+## 🐬 Holopins
+
+<a href="https://holopin.io/@xrontrix10"><img src="https://holopin.me/xrontrix10" alt="An image of @xrontrix10's Holopin badges, which is a link to view their full Holopin profile"></img></a>
+
 <!-- ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XronTrix10&count_private=true&show_icons=true&include_all_commits=true&bg_color=212121&icon_color=7a7a7a&text_color=ffffff&hide_border=true&title_color=ff3300)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=XronTrix10&hide=TeX&layout=compact&bg_color=212121&text_color=ffffff&hide_border=true&title_color=ff3300)
 
-<div align="center"><img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=XronTrix10&hide=TeX&layout=donut&bg_color=212121&text_color=ffffff&hide_border=true&title_color=ff3300</img></div>-->
+<div align="center"><img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=XronTrix10&hide=TeX&layout=donut&bg_color=212121&text_color=ffffff&hide_border=true&title_color=ff3300</img></div> -->
