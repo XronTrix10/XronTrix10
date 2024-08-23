@@ -4,19 +4,39 @@
 
 <h1>Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">, I'm Xron Trix.</h1>
 
-<i> A Geek, Tech Enthusiast, Self Learner and Resolute. Feel Free To Connect with me and find out more about me 
+<i> A geek, tech enthusiast, self learner and resolute. Love to be and do things differently. Let's connect and do something great.
 </i>
 
+<br>
+
+
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![MX Linux](https://img.shields.io/badge/-MX%20Linux-%23000000?style=flat&logo=MXlinux&logoColor=white)
+
+
+<br>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@XronTrix10)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&link=https://t.me/BEnTeN009)](https://t.me/XronTrix)
-[![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:xrontrix@proton.me)
+[![Mail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:xrontrix@proton.me)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://twitter.com/XronTrix10)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)]((https://discordapp.com/users/759004389494095882))
-[![Twitter](https://img.shields.io/twitter/follow/XronTrix10?style=social)](https://twitter.com/XronTrix10)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/XronTrix10)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)](https://gitlab.com/XronTrix10)
+![Matrix](https://img.shields.io/badge/matrix-000000?style=flat&logo=Matrix&logoColor=white)
 <!-- [![discord](https://discord-md-badge.vercel.app/api/shield/759004389494095882?style=social)](https://discordapp.com/users/759004389494095882) -->
-<!-- ![Matrix](https://img.shields.io/badge/matrix-000000?style=flat&logo=Matrix&logoColor=white) -->
+
+<br>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/XronTrix10)
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)](https://gitlab.com/XronTrix10)
 
 <br>
 
